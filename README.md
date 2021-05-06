@@ -1,2 +1,2 @@
-# Scout-Your-Fantasy-Athletics-Team
-Scout your Athletics Fantasy Team (Datacamp Project)
+# Scout your Athletics Fantasy Team
+Scout your Athletics Fantasy Team (Datacamp Project) in #rstats
